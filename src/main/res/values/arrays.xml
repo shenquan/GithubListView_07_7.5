@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookArray">
+        <item>还在这装逼。。</item>
+        <item>韩申沿</item>
+        <item>LOL</item>
+        <item>英雄联盟</item>
+        <item>小学生上线了！！！</item>
+
+    </string-array>
+    
+</resources>
